@@ -60,6 +60,9 @@ To address this, the sales director:
 ## Performance Analysis
 ![Performance Analysis](https://github.com/connectsandy82/AtliQ-Sales-Insights/blob/main/Performance%20Analysis.png)
 
+## Insights Summary COnclusion
+![Insights Summary COnclusion](https://github.com/connectsandy82/AtliQ-Sales-Insights/blob/main/Insights%20Summary%20Conclusion.png)
+
 ## Outcome
 - Delivered a robust Power BI dashboard that provides clear, actionable insights into AtliQ Hardware’s sales performance. This dashboard empowers the sales director to make data-driven decisions and address the challenges effectively.
 
