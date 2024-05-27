@@ -60,7 +60,7 @@ To address this, the sales director:
 ## Performance Analysis
 ![Performance Analysis](https://github.com/connectsandy82/AtliQ-Sales-Insights/blob/main/Performance%20Analysis.png)
 
-## Insights Summary COnclusion
+## Insights Summary Conclusion
 ![Insights Summary COnclusion](https://github.com/connectsandy82/AtliQ-Sales-Insights/blob/main/Insights%20Summary%20Conclusion.png)
 
 ## Outcome
