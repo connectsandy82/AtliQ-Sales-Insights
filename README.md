@@ -5,7 +5,7 @@ I'm thrilled to share my latest project, where I took a data-driven approach to 
 ## Project Title: “AtliQ Sales Insights Using SQL, Power Query, and Power BI”
 
 ## Links to Explore:
-**Interactive Dashboard:** [View Dashboard]()
+**Interactive Dashboard:** [View Dashboard](https://rb.gy/loxqar)
 
 **Presentation Video:** Coming Soon!
 
@@ -51,9 +51,9 @@ To address this, the sales director:
 
 ## Dashboards Overview:
 
-![Revenue Analyasis](https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATASET/Inital_report.png)
-![Final Dashboard](https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATASET/Final_report.png)
-![Interactive Dashboard](https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATASET/GIF.gif)
+![Revenue Analyasis](https://github.com/connectsandy82/AtliQ-Sales-Insights/blob/main/Revenue%20Analysis.png)
+![Profit Analysis](https://github.com/connectsandy82/AtliQ-Sales-Insights/blob/main/Profit%20Analysis.png)
+![Performance Analysis](https://github.com/connectsandy82/AtliQ-Sales-Insights/blob/main/Performance%20Analysis.png)
 
 ## Outcome
 - Delivered a robust Power BI dashboard that provides clear, actionable insights into AtliQ Hardware’s sales performance. This dashboard empowers the sales director to make data-driven decisions and address the challenges effectively.
