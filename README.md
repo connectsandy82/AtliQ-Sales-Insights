@@ -51,8 +51,13 @@ To address this, the sales director:
 
 ## Dashboards Overview:
 
+## Revenue Analysis
 ![Revenue Analyasis](https://github.com/connectsandy82/AtliQ-Sales-Insights/blob/main/Revenue%20Analysis.png)
+
+## Profit Analysis
 ![Profit Analysis](https://github.com/connectsandy82/AtliQ-Sales-Insights/blob/main/Profit%20Analysis.png)
+
+## Performance Analysis
 ![Performance Analysis](https://github.com/connectsandy82/AtliQ-Sales-Insights/blob/main/Performance%20Analysis.png)
 
 ## Outcome
